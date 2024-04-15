@@ -1,0 +1,4 @@
+User-agent: googlebot
+Allow: /
+
+Sitemap: http://altafuturis.com/sitemap.xml

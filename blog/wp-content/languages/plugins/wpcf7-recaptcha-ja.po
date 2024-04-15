@@ -1,0 +1,192 @@
+# Translation of Plugins - ReCaptcha v2 for Contact Form 7 - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - ReCaptcha v2 for Contact Form 7 - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-11-26 01:43:27+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - ReCaptcha v2 for Contact Form 7 - Stable (latest release)\n"
+
+#. translators: ReCaptcha theme (light or dark)
+#. translators: Alignment of the reCaptcha box (left, center, right)
+#: recaptcha-v2.php:437 recaptcha-v2.php:443
+msgid "Alignment"
+msgstr "配置"
+
+#. translators: ReCaptcha alignment: center
+#: recaptcha-v2.php:447
+msgid "Center"
+msgstr "中央"
+
+#. translators: ReCaptcha alignment: left
+#: recaptcha-v2.php:445
+msgid "Left"
+msgstr "左"
+
+#. translators: ReCaptcha alignment: right
+#: recaptcha-v2.php:449
+msgid "Right"
+msgstr "右"
+
+#. Plugin Name of the plugin
+#: wpcf7-recaptcha.php:234 wpcf7-recaptcha.php:251
+msgid "ReCaptcha v2 for Contact Form 7"
+msgstr "ReCaptcha v2 for Contact Form 7"
+
+#: wpcf7-recaptcha.php:288
+msgid "Network Wide Settings"
+msgstr "ネットワーク全体の設定"
+
+#: wpcf7-recaptcha.php:279
+msgid "Select reCaptcha Source"
+msgstr "reCaptcha ソースを選択"
+
+#: wpcf7-recaptcha.php:271
+msgid "Select reCaptcha Usage"
+msgstr "reCaptcha の使い方を選択"
+
+#: recaptcha-v2.php:257
+msgid "reCaptcha Response Here"
+msgstr "reCaptcha レスポンスはこちら"
+
+#: wpcf7-recaptcha.php:277
+msgid "If you're not sure if your country blocks Google then you may leave this as default. Otherwise, if your country blocks google.com requests then please select the suggested recaptcha.net alternative below."
+msgstr "お住まいの国で Google がブロックされているかどうか不明な場合はデフォルトのままにしてください。google.com のリクエストがブロックされている場合は、推奨代替版の recaptcha.net を選択してください。"
+
+#: wpcf7-recaptcha.php:193 wpcf7-recaptcha.php:194
+msgid "WPCF7 reCaptcha Settings"
+msgstr "WPCF7 reCaptcha 設定"
+
+#: wpcf7-recaptcha.php:300
+msgid "Site Key"
+msgstr "サイトキー"
+
+#: wpcf7-recaptcha.php:304
+msgid "Secret Key"
+msgstr "シークレットキー"
+
+#: wpcf7-recaptcha.php:290
+msgid "Please read all of the below before committing to these changes."
+msgstr "これらの変更を決定する前に、以下をすべてお読みください。"
+
+#: wpcf7-recaptcha.php:291
+msgid "You may set Network wide API keys below. Please ensure that every network site is whitelisted in the Google API Console. ReCaptcha keys can still be set ( or unset ) on a per site basis if necessary."
+msgstr "以下でネットワーク全体の API キーを設定できます。すべてのネットワークサイトが Google API コンソールでホワイトリストに登録されているかご確認ください。ReCaptcha キーは、必要に応じてサイトごとに設定 (または解除) できます。"
+
+#. translators: %s is a link to the Contact Form 7 blog post regarding
+#. reCaptcha v3
+#: recaptcha-v2.php:345 recaptcha-v2.php:378 recaptcha-v2.php:389
+msgid "reCaptcha"
+msgstr "reCaptcha"
+
+#: wpcf7-recaptcha.php:262
+msgid "Select the version of reCaptcha you would like to use. You will still need to use the %s shortcode tag in your Contact Form 7 forms."
+msgstr "使用したい reCaptcha のバージョンを選択してください。引き続き、Contact Form 7フォームで%s ショートコードタグを使用する必要があります。"
+
+#. translators: Image alternative tag.
+#: wpcf7-recaptcha.php:321
+msgid "Like IQComputing on Facebook mascot"
+msgstr "Facebook マスコットで IQComputing にいいね"
+
+#: recaptcha-v2.php:75
+msgid "Please verify that you are not a robot."
+msgstr "ロボットではないことを確認してください。"
+
+#. translators: ReCaptcha size: normal
+#: recaptcha-v2.php:409
+msgid "Normal"
+msgstr "通常"
+
+#. translators: ReCaptcha size (normal or compact)
+#. translators: Screen reader text, reCaptcha size (normal or compact)
+#: recaptcha-v2.php:401 recaptcha-v2.php:407
+msgid "Size"
+msgstr "サイズ"
+
+#: wpcf7-recaptcha.php:312
+msgid "Submit"
+msgstr "送信"
+
+#. translators: ReCaptcha theme (light or dark)
+#. translators: Screen reader text, reCaptcha theme (light or dark)
+#: recaptcha-v2.php:419 recaptcha-v2.php:425
+msgid "Theme"
+msgstr "テーマ"
+
+#. translators: Insert shortcode tag into the page content
+#: recaptcha-v2.php:481
+msgid "Insert Tag"
+msgstr "タグを挿入"
+
+#. translators: HTML Attribute class for reCaptcha box
+#: recaptcha-v2.php:465
+msgid "Class attribute"
+msgstr "クラス属性"
+
+#. translators: HTML Attribute ID for reCaptcha box
+#: recaptcha-v2.php:457
+msgid "Id attribute"
+msgstr "ID 属性"
+
+#: wpcf7-recaptcha.php:174 wpcf7-recaptcha.php:175
+msgid "reCaptcha Version"
+msgstr "reCaptcha バージョン"
+
+#: wpcf7-recaptcha.php:273
+msgid "Default Usage"
+msgstr "デフォルトの使い方"
+
+#. translators: ReCaptcha theme: dark
+#: recaptcha-v2.php:429
+msgid "Dark"
+msgstr "ダーク"
+
+#. translators: ReCaptcha theme: light
+#: recaptcha-v2.php:427
+msgid "Light"
+msgstr "ライト"
+
+#. translators: ReCaptcha size: compact
+#: recaptcha-v2.php:411
+msgid "Compact"
+msgstr "コンパクト"
+
+#. Author URI of the plugin
+msgid "http://www.iqcomputing.com/"
+msgstr "http://www.iqcomputing.com/"
+
+#. Author of the plugin
+msgid "IQComputing"
+msgstr "IQComputing"
+
+#: wpcf7-recaptcha.php:274
+msgid "reCaptcha Version 2"
+msgstr "reCaptcha バージョン2"
+
+#: wpcf7-recaptcha.php:256
+msgid "Your reCaptcha settings have been updated."
+msgstr "reCaptcha 設定を更新しました。"
+
+#. Description of the plugin
+msgid "ReCaptcha v2 Fix for Contact Form 7 5.1 and later."
+msgstr "Contact Form 7 5.1以降対応 のための ReCaptcha v2 修正。"
+
+#. translators: %s is a link to the Contact Form 7 blog post regarding
+#. reCaptcha v3
+#: recaptcha-v2.php:378
+msgid "To use reCaptcha, first you need to install an API key pair. For more details, see %s."
+msgstr "reCaptcha を使用するには、最初に API キーペアをインストールする必要があります。詳細は、%s をご覧ください。"
+
+#: wpcf7-recaptcha.php:235
+msgid "This version of Contact Form 7 already uses reCaptcha version 2, you do not need 'ReCaptcha v2 for Contact Form 7' installed at this time."
+msgstr "このバージョンの Contact Form 7はすでに reCaptcha バージョン2を使用しているため、現時点では \"ReCaptcha v2 for Contact Form 7\" をインストールする必要はありません。"
+
+#. translators: %s is a link to the Contact Form 7 blog post regarding
+#. reCaptcha v3
+#: recaptcha-v2.php:388
+msgid "Generate a form-tag for a reCaptcha widget. For more details, see %s."
+msgstr "reCaptcha ウィジェットのフォームタグを生成します。詳細は%sをご覧ください。"

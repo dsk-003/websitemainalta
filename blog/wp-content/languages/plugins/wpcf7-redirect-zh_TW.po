@@ -1,0 +1,117 @@
+# Translation of Plugins - Redirection for Contact Form 7 - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Redirection for Contact Form 7 - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-01 22:31:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Redirection for Contact Form 7 - Development (trunk)\n"
+
+#: wpcf7-redirect.php:512
+msgid "Redirection Pro For Contact Form 7 - We've added exciting new features!"
+msgstr "開發團隊在 Redirection Pro For Contact Form 7 中加入許多令人驚艷的新功能！"
+
+#: wpcf7-redirect.php:392
+msgid "Banner - Redirection Pro For Contact Form 7"
+msgstr "Redirection Pro for Contact Form 7 的橫幅"
+
+#. Plugin Name of the plugin
+msgid "Redirection for Contact Form 7"
+msgstr "Redirection for Contact Form 7"
+
+#: wpcf7-redirect.php:479
+msgid "Delay redirect (in milliseconds)"
+msgstr "延遲重新導向 (單位為毫秒)"
+
+#: wpcf7-redirect.php:389
+msgid "Close Banner"
+msgstr "關閉橫幅"
+
+#: wpcf7-redirect.php:463
+msgid "Pass all the fields from the form as URL query parameters"
+msgstr "將聯絡表單中的全部欄位當作網址查詢參數傳遞"
+
+#: wpcf7-redirect.php:474
+msgid "Fields to pass, separated by commas"
+msgstr "請輸入要傳遞的欄位，並使用逗號分隔多個欄位。"
+
+#: wpcf7-redirect.php:294
+msgid "Error: Contact Form 7 version is too old. Contact Form Redirection is compatible from version 4.8 and above. Please update Contact Form 7."
+msgstr "錯誤: Contact Form 7 版本太舊。Redirection for Contact Form 7 僅能執行於 Contact Form 7 4.8 或更新版本，請更新 Conatct Form 7。"
+
+#: wpcf7-redirect.php:291 wpcf7-redirect.php:305
+msgid "Contact Form Redirection"
+msgstr "聯絡表單重新導向"
+
+#: wpcf7-redirect.php:503
+msgid "This option is for developers only - use with caution. If the plugin does not redirect after you have added scripts, it means you have a problem with your script. Either fix the script, or remove it."
+msgstr "這項功能僅供開發者使用，並請審慎使用。如果加入指令碼後這個外掛沒有進行重新導向，這代表指令碼有問題。請修正指令碼，或移除指令碼。"
+
+#: wpcf7-redirect.php:500
+msgid "Warning!"
+msgstr "警告！"
+
+#: wpcf7-redirect.php:471
+msgid "Pass specific fields from the form as URL query parameters"
+msgstr "將聯絡表單中的指定欄位當作網址查詢參數傳遞"
+
+#: wpcf7-redirect.php:493
+msgid "Do not include <script> tags."
+msgstr "請不要輸入 <script> 標籤。"
+
+#: wpcf7-redirect.php:489
+msgid "Here you can add scripts to run after form sent successfully."
+msgstr "如有需要，請在下方欄位加入聯絡表單成功送出後要執行的指令碼。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "http://querysol.com"
+msgstr "https://querysol.com/"
+
+#: wpcf7-redirect.php:455
+msgid "This option might not work as expected, since browsers often block popup windows. This option depends on the browser settings."
+msgstr "由於瀏覽器封鎖了快顯視窗，因此這項功能執行結果不如預期。這項功能能否正常執行，完全取決於瀏覽器設定。"
+
+#: wpcf7-redirect.php:452
+msgid "Notice!"
+msgstr "注意！"
+
+#: wpcf7-redirect.php:448
+msgid "Open page in a new tab"
+msgstr "在新分頁開啟連結"
+
+#. Author of the plugin
+msgid "Query Solutions"
+msgstr "Query Solutions"
+
+#. Description of the plugin
+msgid "Contact Form 7 Add-on - Redirect after mail sent."
+msgstr "這個外掛是 Contact Form 7 的附加元件，能在傳送郵件後將填表者重新導向至指定目標。"
+
+#: wpcf7-redirect.php:441
+msgid "Use external URL"
+msgstr "使用外部網址"
+
+#: wpcf7-redirect.php:434
+msgid "External URL"
+msgstr "外部網址"
+
+#: wpcf7-redirect.php:405
+msgid "Select a page to redirect to on successful form submission."
+msgstr "選取聯絡表單成功送出後重新導向的頁面:"
+
+#: wpcf7-redirect.php:420
+msgid "Choose Page"
+msgstr "選取頁面"
+
+#: wpcf7-redirect.php:103 wpcf7-redirect.php:399
+msgid "Redirect Settings"
+msgstr "重新導向設定"
+
+#: wpcf7-redirect.php:308
+msgid "Error: Please install and activate Contact Form 7."
+msgstr "錯誤: 請安裝並啟用 Contact Form 7。"
